@@ -1,4 +1,4 @@
-# devio-wordpress-widgetcombo
+# DeVio WordPressWidgetCombo
 An extended combo default widgets plugin for WordPress
 
 since WordPress come with default widgets, this widget combo come as extended version in one bundled.
