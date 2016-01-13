@@ -11,8 +11,8 @@ Contains :
 <li>Post Tags Combo Widget</li>
 </ul>
 
-What inside each combo ?
-Post Combo :
+<h3>What inside each combo ?</h3>
+<p>Post Combo :</p>
 <ul>
 <li></li>
 </ul>
